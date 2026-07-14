@@ -1,0 +1,6 @@
+{
+  "name": "AI Fraud & Intrusion Detection Platform",
+  "description": "An interactive AI-driven real-time fraud prevention and network intrusion detection platform featuring dynamic threat visualization, custom machine learning configurations, automated Slack alerting, and Gemini-powered incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
